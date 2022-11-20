@@ -5,5 +5,5 @@ print(resr_list1)
 list2 = [100,200,300,400,500]
 resr_list2 = [x*0.1 for x in list2]
 print(rest_list2)
-print('the list is completed")
+print('the list is completed')
       
